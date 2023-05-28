@@ -1,0 +1,13 @@
+{
+  "author": "Hugo Haas",
+  "gitHubUrl": "https://github.com/hugoh",
+  "packages": [
+    {
+      "name": "T-Mobile Home Internet Gateway Driver",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/hugoh/hubitat-tmo-gateway/release/packageManifest.json",
+      "description": "Provides an interface with T-Mobile Home Internet's gateway.",
+      "id": "EBFD31D3-C59C-4898-A567-D0810A0B6008"
+    }
+  ]
+}
