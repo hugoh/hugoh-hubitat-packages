@@ -5,9 +5,18 @@
     {
       "name": "T-Mobile Home Internet Gateway Driver",
       "category": "Integrations",
+      "tags": [ "Cloud" ],
       "location": "https://raw.githubusercontent.com/hugoh/hubitat-tmo-gateway/release/packageManifest.json",
       "description": "Provides an interface with T-Mobile Home Internet's gateway.",
       "id": "EBFD31D3-C59C-4898-A567-D0810A0B6008"
+    },
+    {
+      "name": "Internet Connection Monitor",
+      "category": "Utility",
+      "tags": [ "Cloud" ],
+      "location": "https://raw.githubusercontent.com/hugoh/hubitat-internet-monitor/release/packageManifest.json",
+      "description": "Hubitat driver to monitor internet connection",
+      "id": "7B07EA71-775D-489C-B28B-26A93BBE4930"
     }
   ]
 }
