@@ -17,14 +17,6 @@
       "location": "https://raw.githubusercontent.com/hugoh/hubitat-internet-monitor/master/packageManifest.json",
       "description": "Hubitat driver to monitor internet connection",
       "id": "7B07EA71-775D-489C-B28B-26A93BBE4930"
-    },
-    {
-      "name": "Device driver for Weather Underground personal weather stations",
-      "category": "Utility",
-      "tags": [ "Weather" ],
-      "location": "https://raw.githubusercontent.com/hugoh/hubitat-wunderground-pws/master/packageManifest.json",
-      "description": "Device driver for Weather Underground personal weather stations",
-      "id": "7959DBFB-E2CB-45AA-9B75-4B1A51CA7FCF"
     }
   ]
 }
